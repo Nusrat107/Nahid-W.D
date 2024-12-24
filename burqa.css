@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Custom-Bg {
+    background-color: #65dcdd;
+}
+.gap {
+    margin: 7px;
+}
+.card-body {
+    margin-top: 5px;
+}
